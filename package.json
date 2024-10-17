@@ -1,0 +1,26 @@
+{
+  "name": "exchange-rate-converter",
+  "version": "1.0.0",
+  "description": "An NPM package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Beesettyrakesh/exchange-rate-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rakesh Beesetty",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Beesettyrakesh/exchange-rate-converter/issues"
+  },
+  "homepage": "https://github.com/Beesettyrakesh/exchange-rate-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}

@@ -8,5 +8,5 @@ export async function convert(fromCurrency, toCurrency, units) {
         currencies: toCurrency
     });
     const value = res.data[toCurrency];
-    return value * units;
+    return (value * units).toFixed(2);
 }

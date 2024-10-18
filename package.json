@@ -1,6 +1,6 @@
 {
   "name": "exchange-rate-converter",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "An NPM package to convert currency",
   "main": "index.js",
   "type": "module",

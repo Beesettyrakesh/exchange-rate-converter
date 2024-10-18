@@ -1,6 +1,9 @@
 # exchange-rate-converter
 An NPM package to convert currency
 
+## NPM install
+`npm i exchange-rate-converter`
+
 ### Currency List
 | Code | Name |
 | ---- | ---- |
